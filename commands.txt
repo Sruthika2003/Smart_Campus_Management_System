@@ -1,0 +1,5 @@
+this is the path for the actual application
+    src/main/java/com/smartcampus/examgrading
+
+command to run the application
+       mvn spring-boot:run
